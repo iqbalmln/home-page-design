@@ -5,5 +5,5 @@ export default defineNuxtConfig({
       title: 'Landing Page | Tlab',
     },
   },
-  modules: ['@nuxtjs/tailwindcss']
+  modules: ['@nuxtjs/tailwindcss', 'nuxt-svgo']
 })
