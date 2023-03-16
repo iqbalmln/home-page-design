@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "tlab-landing-page",
+  "description": "Desain Home Page Tlab",
+  "author": {
+    "email": "miqblmaulana@gmail.com",
+    "name": "M. Iqbal Maulana",
+    "url": "https://tlab.vercel.com"
+  },
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.3.1"
+  }
+}
