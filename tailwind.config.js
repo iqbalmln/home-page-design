@@ -9,9 +9,6 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        lavender: "#6E7EC9",
-      }
     },
   },
   plugins: [],

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    font-family: 'Nunito Sans', sans-serif;
+    @apply antialiased bg-white text-[#5A5A5A];
+  }
+  .quicksand {
+    font-family: 'Quicksand', sans-serif;
+  }
+}
